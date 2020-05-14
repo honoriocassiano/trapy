@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+misc.xml
+modules.xml
+profiles_settings.xml
+trapy.iml
+vcs.xml
